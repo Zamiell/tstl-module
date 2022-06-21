@@ -1,0 +1,25 @@
+{
+  "name": "@zamiell/tstl-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zamiell/tstl-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zamiell/tstl-module/issues"
+  },
+  "homepage": "https://github.com/Zamiell/tstl-module#readme",
+  "dependencies": {
+    "lua-types": "^2.11.0",
+    "typescript": "^4.7.4",
+    "typescript-to-lua": "^1.6.0"
+  }
+}
