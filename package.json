@@ -2,6 +2,7 @@
   "name": "@zamiell/tstl-module",
   "version": "1.0.1",
   "description": "",
+  "main": "dist/main",
   "types": "dist/main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
