@@ -1,6 +1,6 @@
 {
   "name": "@zamiell/tstl-module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/main",
   "types": "dist/main.d.ts",
